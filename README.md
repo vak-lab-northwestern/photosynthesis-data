@@ -1,2 +1,2 @@
 # photosynthesis-data
-![Alt text](image (10).png)
+![Alt text](./HeaderImage.png)
