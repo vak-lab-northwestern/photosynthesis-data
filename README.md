@@ -1,5 +1,5 @@
 # photosynthesis-data
-![Alt text](./HeaderImage.png)
+![Setup](./Setup.png)
 
 This repository serves as a location to access all of the data required to reproduce the plots seen on this page.  
 
